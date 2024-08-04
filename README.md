@@ -1,1 +1,1 @@
-poco# hiddify-next-core
+# hiddify-next-core
